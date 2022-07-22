@@ -102,4 +102,29 @@ hr{
     border-radius: 5px;
     background-color: rgb(241, 175, 175);
 }
-
+#get-my-update-section{
+    text-align: center;
+}
+#subscribe-button{
+    background-color: coral;
+    margin: 10px -1px;
+    padding: 10px 10px;
+    font-size: 14px;
+    font-weight: 400;
+    border: 0px solid white;
+    border-radius: 3px;
+}
+#email-id{
+    margin: 10px 0px;
+    padding: 10px 10px;
+    background-color: darkgray;
+    border: 0px solid white;
+    border-radius: 3px;
+}
+#footer-id{
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+    margin: 40px -8px -8px -8px;
+}
