@@ -1,0 +1,105 @@
+body{
+    font-family: 'Rubik', sans-serif;
+
+}
+h1{
+    font-size: 40px;
+}
+#banner-section{
+    margin: -8px;
+    padding: 200px 0px;
+    text-align: center;
+    color: antiquewhite;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: 500;
+
+}
+p{
+    font-weight: 500;
+}
+.donate-now-button{
+    color: black;
+    background-image: linear-gradient(rgb(177, 219, 79),rgba(142, 245, 24, 0.705));
+    margin: 20px 10px;
+    padding: 7px 10px;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 1px solid rgb(2, 247, 23);
+    text-decoration: none;
+}
+#donate-today-section{
+    text-align: center;
+    margin-top: 100px;
+}
+#donate-amount-div{
+    display: flex;
+    justify-content: center;
+}
+.donate-amount{
+    text-align: center;
+    background-color: rgb(243, 237, 237);
+    border-radius: 5px;
+    margin: 20px 20px;
+    padding: 30px 30px;
+
+}
+#donate-amount-spacial{
+    color: rgba(245, 63, 63, 0.925);
+    text-align: center;
+    border: 2px solid #000000;
+    margin: 20px 20px;
+    padding: 30px 30px; 
+    background-color: rgb(221, 166, 164);
+    border-radius: 5px;
+}
+#other-amount-div{
+    margin: 20px 20px;
+}
+#other-amount{
+    color: rgba(0, 0,0,.5);
+}
+hr{
+    margin-bottom: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#our-donate-plan-section{
+    margin: 100px 0px;
+    text-align: center;
+}
+#donate-plan-div{
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+#food-card{
+    width: 25%;
+    margin: 10px 10px;
+    padding: 50px 20px;
+    text-align: left;
+    border: 0px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: rgb(236, 238, 135);
+}
+#shelter-card{
+    width: 25%;
+    margin: 10px 10px;
+    padding: 50px 20px;
+    text-align: left;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(182, 155, 155);
+}
+#education-card{
+    width: 25%;
+    margin: 10px 10px;
+    padding: 50px 20px;
+    text-align: left;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: rgb(241, 175, 175);
+}
+
