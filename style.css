@@ -102,6 +102,26 @@ hr{
     border-radius: 5px;
     background-color: rgb(241, 175, 175);
 }
+#charity-section{
+    margin: 150px 10px;
+    
+}
+#charity-main-div{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 0px 100px;
+}
+#charity-text-div{
+    width: 100%;
+    height: auto;
+}
+#charity-image-div img{
+    
+    width: 75%;
+    height: auto;
+}
+
 #get-my-update-section{
     text-align: center;
 }
@@ -121,10 +141,13 @@ hr{
     border: 0px solid white;
     border-radius: 3px;
 }
+#be-humble-id{
+    color: brown;
+}
 #footer-id{
     text-align: center;
     background-color: black;
-    color: white;
-    
+    color: rgb(212, 42, 42);
     margin: 40px -8px -8px -8px;
+    padding: 20px 0px;
 }
