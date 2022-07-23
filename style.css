@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 40px;
 }
+#banner-id{
+    color: rgba(49, 226, 5, 0.829);
+}
 #banner-section{
     margin: -8px;
     padding: 200px 0px;
